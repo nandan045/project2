@@ -1,2 +1,6 @@
-print('hello world')
-print('I am Nandan MK')
+def main(msg):
+     print(msg)
+
+main('hello world')
+
+
